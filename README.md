@@ -1,4 +1,4 @@
-# Jogo_Ninja
+# Jogo_Ninja :ninja:
 Jogo de cortar cubos estilo ninja inspirado no "Menja" do Caleb Miller.
 
 ## Tecnologias usadas :computer:
