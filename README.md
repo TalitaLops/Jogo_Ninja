@@ -15,7 +15,8 @@ Jogo de cortar cubos estilo ninja inspirado no "Menja" do Caleb Miller.
 
 ##
 <p align="center">
-  <img src=""
+  <img src="![image](https://user-images.githubusercontent.com/89091011/150214347-6c935529-1e9b-4fce-aa3e-1685d0ea13e7.png)
+"
 </p>
  
 https://jogoninja.netlify.app/
